@@ -32,3 +32,4 @@ resources:
   - ./kyverno.yaml
   - ./piraeus.yaml
   - ./stevehipwell.yaml
+  - ./bitwarden.yaml
